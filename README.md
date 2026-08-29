@@ -73,6 +73,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Predictions Network](https://www.thebestpredictionmarkets.com/)**: Compares the same outcome across 12 venues side by side and highlights the best price **after fees**.
+  Covers Polymarket, Kalshi, Limitless, Hyperliquid, SX Bet, Gemini, Pascal, OG, Futuur, Smarkets, Matchbook, and Predict Street, mixing crypto-native venues with sportsbook-style ones. Per-event comparison pages, a cross-venue spreads view, and prices date-stamped from the underlying data so a quote is never shown as fresher than it is. Read-only: no wallet connection, no execution. Further venues are in onboarding and will price as each clears its checks. A Spanish edition runs at [prediccioneslatam.com](https://www.prediccioneslatam.com/).
+  - **Best for:** checking which venue actually prices an outcome best before you open an account there.
+  - **Team:** independent, bootstrapped. No funding disclosed.
+  - **Pricing:** free.
+  - **Phase:** live (more venues in onboarding).
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 [↑ Back to top](#top)
 
 ---

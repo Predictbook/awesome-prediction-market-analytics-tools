@@ -177,6 +177,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Dimes Multiply](https://dimes.fi)**: Embedded leverage layer that front-ends integrate to offer up to 10x on Polymarket positions, rather than a venue you trade on yourself.
+  B2B middleware: a terminal, wallet, or app calls a REST API and Dimes provisions the credit, hedges it, and settles it, so the integrator never runs margin in-house. Exposure is a contract-for-difference on Polygon settled in USDC, sized 2x-10x in 0.25x increments, and limited to binary and simple categorical markets. A "leverage decay" rule automatically cuts exposure as a market's book thins toward resolution, which is the gap-risk problem most leveraged prediction market products don't describe publicly. TypeScript SDK and an MCP server are on npm, a Python client is on GitHub, and sandbox mode runs without funds.
+  - **Best for:** teams shipping a terminal or wallet who want margin as a feature without building a risk desk. Not directly useful to a retail trader, there is no Dimes front-end to trade on.
+  - **Team:** no independent coverage found. The company states backing from Coinbase Ventures and Accel and an institutional underwriting facility with $100M+/month capacity; both are self-reported.
+  - **Pricing:** not publicly listed. The protocol charges entry, time-based, and liquidation fees, and the integrating platform sets its own origination fee on the leveraged volume it generates.
+  - **Phase:** live API with public docs and published packages, but no partner integrations are publicly named and the SDK is pre-1.0.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

@@ -129,6 +129,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⚡ Trading Terminals & Execution
 
+- **[Sonist](https://sonist.tech/)**: Sonist automates live mention-market trading on Kalshi and Polymarket.
+  It brings markets from both exchanges into one interface and monitors live audio, subtitle feeds, or accessibility captions for configured words. When a word is said, Sonist applies your risk limits and sends the trade through your account, letting you use the lowest-latency source available for each event.
+  - **Best for:** mention-market traders who want automated execution from the lowest-latency live source available for each event.
+  - **Team:** independent, founder-built.
+  - **Pricing:** free tier; Plus $29/mo; Pro $49/mo.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 - **[Stand](https://www.stand.trade/)**: Trading terminal and aggregator for Kalshi and Polymarket with a "counter-trading" feature.
   Auto-fades historically unprofitable wallets instead of following the crowd.
   - **Best for:** traders who'd rather fade known losers than copy winners.

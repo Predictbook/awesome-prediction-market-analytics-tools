@@ -400,6 +400,22 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Kalshi & Polymarket Markets Scraper](https://apify.com/gratified_ashram/prediction-markets-scraper)**: Pay-per-row export of Kalshi and Polymarket markets from their public APIs into JSON, CSV or a scheduled dataset, with order-book depth, price history for both exchanges (Kalshi settled markets and candlesticks back to 2021, Polymarket daily/hourly/minute series back to 2024) and Polymarket comment threads and top holders.
+  Runs on Apify, so it also works as an MCP tool for AI agents and on a schedule for building your own archive. No exchange account or API key needed.
+  - **Best for:** pulling a clean, filterable table of markets (by series, category, keyword, volume) with history attached, without writing API code.
+  - **Team:** independent, self-disclosed (gratified_ashram on Apify).
+  - **Pricing:** $1 per 1,000 records, order book +$1 per 1,000; Apify's free plan covers about 4,000 records a month.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[Kalshi Weather Index](https://apify.com/gratified_ashram/kalshi-weather-index)**: Minute-by-minute temperature index Kalshi publishes for its hourly-temperature cities, as rows, plus NWS/METAR station observations and a settlement-audit row per city-day for the daily high/low markets.
+  The number the hourly temperature contracts settle on, exportable and schedulable; a free CC BY 4.0 hourly archive of the index since September 2026 is linked from the page. The daily high/low contracts settle on The Weather Company data, so the audit row is a cross-check, not settlement truth.
+  - **Best for:** checking the actual settlement index behind Kalshi hourly temperature markets instead of a forecast site.
+  - **Team:** independent, self-disclosed (gratified_ashram on Apify).
+  - **Pricing:** $0.05 per 1,000 index points; station rows $0.50 and audit rows $2 per 1,000.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

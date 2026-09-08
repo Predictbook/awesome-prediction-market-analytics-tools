@@ -305,6 +305,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Algomarket](https://www.algomarket.lol/)**: Free cross-venue analytics for Polymarket and Kalshi — whale holdings vs market-implied odds, trader leaderboard, live large fills, market screener, and cross-venue arbitrage scanner. Filter by category (Sports, Politics, Crypto, etc.) on the dashboard and live feed.
+  - **Best for:** tracking where sharp wallets are positioned and spotting Poly/Kalshi price gaps on the same events.
+  - **Team:** independent builder.
+  - **Pricing:** free.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

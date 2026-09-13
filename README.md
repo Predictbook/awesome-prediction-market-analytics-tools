@@ -353,6 +353,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Skewfeed](https://skewfeed.com)**: Prediction-market research dashboard monitoring unusual directional activity across Kalshi and Polymarket.
+  Presents recorded price, timing, order-flow and liquidity context behind activity flags. A separate public Polymarket trade table shows completed trades, dollar size, execution time and public wallets.
+  - **Best for:** investigating a market move and checking the evidence behind an unusual-activity flag.
+  - **Team:** not publicly listed.
+  - **Pricing:** free public trade table; full product $69.99/month, with an annual option and a five-day trial advertised on the site.
+  - **Phase:** live; the homepage includes representative product previews, while the full dashboard requires subscription access.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

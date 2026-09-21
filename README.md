@@ -81,6 +81,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live (more venues in onboarding).
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[EventTracker](https://eventtracker.podcomet.ai)**: Federated dashboard combining data from 28 prediction-market and event-contract venues, including Polymarket, Kalshi, Novig, Opinion, Limitless, Rothera, and ProphetX.
+  Whale-wallet following, cross-venue arbitrage detection, resolution-status alerts, and a fair-price calculator across the aggregated venues. Display-only: no wagers taken, no execution.
+  - **Best for:** arbitrage and mispricing checks across a wider venue set than most single-platform aggregators cover.
+  - **Team:** six co-founders, headed by Tal Ayalon (PhD student, information science, Drexel University; prior data/information-systems work at the UN and World Bank).
+  - **Pricing:** free tier; premium $22/month or $199/year.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

@@ -312,6 +312,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
+- **[0xinsider](https://0xinsider.com)**: Grades Polymarket wallets S-to-F on settled PnL, with live sports/esports boards showing both sides of a game, large trades, open positions, and daily picks.
+  - **Best for:** a quick gut-check on whether a wallet has a real track record before following its position.
+  - **Team:** not publicly listed.
+  - **Pricing:** not publicly listed.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---
@@ -366,6 +373,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Team:** not publicly listed.
   - **Pricing:** free public trade table; full product $69.99/month, with an annual option and a five-day trial advertised on the site.
   - **Phase:** live; the homepage includes representative product previews, while the full dashboard requires subscription access.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[PolyInsider](https://polyinsider.io)**: Free real-time dashboard flagging first-time Polymarket wallets (buys over $500) and whale trades (over $5,000, reconciled against on-chain positions), with crypto up/down markets filtered out of the noise.
+  - **Best for:** catching fresh-wallet and whale activity without doing manual chain analysis.
+  - **Team:** not publicly listed; states it's independent and not affiliated with Polymarket.
+  - **Pricing:** free.
+  - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
 [↑ Back to top](#top)
@@ -428,6 +442,27 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Best for:** checking the actual settlement index behind Kalshi hourly temperature markets instead of a forecast site.
   - **Team:** independent, self-disclosed (gratified_ashram on Apify).
   - **Pricing:** $0.05 per 1,000 index points; station rows $0.50 and audit rows $2 per 1,000.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[PMXT](https://github.com/qoery-com/pmxt)**: Open-source unified API and SDK ("the ccxt for prediction markets") giving one consistent interface across 13+ venues including Polymarket and Kalshi, hosted or self-hosted, with Python/TypeScript SDKs and an MCP integration for agents.
+  - **Best for:** developers who want one client instead of integrating each venue's API separately.
+  - **Team:** maintained by the pmxt-dev org; no individual credited.
+  - **Pricing:** free, open-source (MIT); hosted option needs an API key and wallet address for reads.
+  - **Phase:** live, actively maintained.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[pykalshi](https://github.com/ArshKA/kalshi-client)**: Unofficial Python client for Kalshi with REST and WebSocket streaming, automatic retries, pandas integration, and typed domain objects for markets, orders, and events.
+  - **Best for:** developers building research or trading systems against Kalshi's API in Python.
+  - **Team:** community-maintained by GitHub user arshka; explicitly not affiliated with Kalshi.
+  - **Pricing:** free, open-source.
+  - **Phase:** live, actively maintained.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[Probalytics](https://probalytics.io)**: Full-depth historical order-book data for Polymarket (since Nov 2025) and Kalshi (since May 2026), queryable via ClickHouse SQL, REST APIs, or Parquet export, with markets covered back to October 2020.
+  - **Best for:** quant research that needs raw historical order-book and trade data rather than a dashboard.
+  - **Team:** not publicly listed.
+  - **Pricing:** paid, free 3-day trial.
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 

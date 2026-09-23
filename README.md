@@ -320,10 +320,10 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
-- **[0xinsider](https://0xinsider.com)**: Grades Polymarket wallets S-to-F on settled PnL, with live sports/esports boards showing both sides of a game, large trades, open positions, and daily picks.
+- **[0xinsider](https://0xinsider.com)**: Grades Polymarket wallets S-to-F on settled PnL, with live sports/esports boards showing both sides of a game, large trades, open positions, and daily picks. Read-only API available for developers.
   - **Best for:** a quick gut-check on whether a wallet has a real track record before following its position.
   - **Team:** not publicly listed.
-  - **Pricing:** not publicly listed.
+  - **Pricing:** free tier (3 followed wallets); Pro $25/week, $99/month, or $899/year.
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 

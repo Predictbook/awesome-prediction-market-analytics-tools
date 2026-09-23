@@ -137,6 +137,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⚡ Trading Terminals & Execution
 
+- **[Homerun](https://github.com/braedonsaunders/homerun)**: Open-source prediction-market trading platform for Polymarket and Kalshi.
+  Write full Python strategies and data sources, backtest on L2 book replay, then paper or live trade from one self-hosted stack (25+ built-in strategies, copy trading, AI scoring, real-time dashboard).
+  - **Best for:** builders who want a full Python strategy/backtest/live stack instead of a hosted terminal alone.
+  - **Team:** Braedon Saunders (open-source maintainer).
+  - **Pricing:** free, open-source (AGPL-3.0).
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 - **[Sonist](https://sonist.tech/)**: Sonist automates live mention-market trading on Kalshi and Polymarket.
   It brings markets from both exchanges into one interface and monitors live audio, subtitle feeds, or accessibility captions for configured words. When a word is said, Sonist applies your risk limits and sends the trade through your account, letting you use the lowest-latency source available for each event.
   - **Best for:** mention-market traders who want automated execution from the lowest-latency live source available for each event.

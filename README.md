@@ -16,18 +16,25 @@ Every tool here gets reviewed monthly to catch dead links, pulled products, and 
 
 If this list saves you some digging, a ⭐ on the repo helps more people find it (no pressure either way, the list stays free and open regardless).
 
+## 📊 At a Glance
+
+![At a glance: weekly progress](stats-card.svg)
+
+*Tools, contributors, and GitHub views, tracked weekly. Updated every Monday.*
+
 ## Contents
 
-- [⭐ Featured](#featured): Predictbook's own analysis, front and center.
-- [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators): compare odds and volume across platforms at once.
-- [🤖 Trade Copying & Automation](#trade-copying--automation): mirror or auto-copy other traders' positions.
-- [⚡ Trading Terminals & Execution](#trading-terminals--execution): place and manage trades across venues from one interface.
-- [📡 Signal & Fair-Value](#signal--fair-value): spot mispriced markets and model-vs-market gaps.
-- [🧾 Portfolio, Tax & Journaling](#portfolio-tax--journaling): track your own positions, P&L, and tax records.
-- [🔍 Wallet & Trader Analytics](#wallet--trader-analytics): research other traders' wallets and track records.
-- [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring): get pinged on big trades and unusual wallet activity.
-- [🧠 Research & Market Discovery](#research--market-discovery): find and dig into markets and data worth watching.
-- [☠️ No Longer Maintained](#no-longer-maintained): tools that used to be here, now dead or abandoned.
+| Category | What it covers | Tools |
+|---|---|---|
+| [⭐ Featured](#featured) | Predictbook's own analysis, front and center. | 1 |
+| [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 5 |
+| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 4 |
+| [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |
+| [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
+| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
+| [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
+| [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
 
@@ -237,22 +244,6 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ---
 
-<a name="portfolio-tax--journaling"></a>
-
-## 🧾 Portfolio, Tax & Journaling
-
-- **[PredictBoox](https://predictboox.com/)**: Syncs positions, trade history, and P&L from Kalshi and Polymarket into one dashboard.
-  Trade journaling and tax-ready export included.
-  - **Best for:** keeping tax season simple across multiple platforms.
-  - **Team:** not publicly listed.
-  - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
-  - **Phase:** Beta.
-  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
-
-[↑ Back to top](#top)
-
----
-
 <a name="wallet--trader-analytics"></a>
 
 ## 🔍 Wallet & Trader Analytics
@@ -334,6 +325,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free tier (3 followed wallets); Pro $25/week, $99/month, or $899/year.
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[PredictBoox](https://predictboox.com/)**: Syncs positions, trade history, and P&L from Kalshi and Polymarket into one dashboard.
+  Trade journaling and tax-ready export included.
+  - **Best for:** keeping tax season simple across multiple platforms.
+  - **Team:** not publicly listed.
+  - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
+  - **Phase:** Beta.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
 

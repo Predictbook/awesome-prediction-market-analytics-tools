@@ -26,7 +26,6 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 | Category | What it covers | Tools |
 |---|---|---|
-| [⭐ Featured](#featured) | Predictbook's own analysis, front and center. | 1 |
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 5 |
 | [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 4 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |

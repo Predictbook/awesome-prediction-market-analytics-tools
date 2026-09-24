@@ -18,9 +18,11 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 📊 At a Glance
 
-![At a glance: weekly progress](stats-card.svg)
+| Tools | Categories | Contributors | GitHub views (6 wks) |
+|---|---|---|---|
+| 50 (+7 this wk) | 7 | 14 (+1 this wk) | 588 |
 
-*Tools, contributors, and GitHub views, tracked weekly. Updated every Monday.*
+*Updated every Monday.*
 
 ## Contents
 

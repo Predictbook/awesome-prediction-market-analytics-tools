@@ -34,7 +34,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
-| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
@@ -479,6 +479,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Best for:** quant research that needs raw historical order-book and trade data rather than a dashboard.
   - **Team:** not publicly listed.
   - **Pricing:** paid, free 3-day trial.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[The Rumpus](https://therumpus.ai)**: Free daily edition that matches live Polymarket and Kalshi markets against several news sources and explains what the prices mean.
+  Each morning it publishes dated, sourced stories, a market-wide analysis and a two-host podcast, Rumpus Daily.
+  - **Best for:** reading the day's news through the markets that price it.
+  - **Team:** Matt O'Neill (Teemo Ltd), independent.
+  - **Pricing:** free.
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 

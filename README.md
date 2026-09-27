@@ -520,6 +520,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
+- **[The Rumpus](https://therumpus.ai)**: Free daily edition that matches live Polymarket and Kalshi markets against several news sources and explains what the prices mean.
+  Each morning it publishes dated, sourced stories, a market-wide analysis and a two-host podcast, Rumpus Daily.
+  - **Best for:** reading the day's news through the markets that price it.
+  - **Team:** Matt O'Neill (Teemo Ltd), independent.
+  - **Pricing:** free.
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---

@@ -445,6 +445,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Resolved Markets](https://resolvedmarkets.com)**: Historical Polymarket order book API: full-depth L2 snapshots since March 2026, with trades and settlement results, over REST, WebSocket and a hosted MCP server.
+  Captured at about 20 Hz for crypto up/down markets and 2 Hz for sports; also covers weather, economics, social and equities markets, plus Hyperliquid perp books. An MIT-licensed Python backtester, [resolvedkit](https://github.com/resolvedmarkets/resolvedkit), fills strategies against this depth with Polymarket's fee curve.
+  - **Best for:** backtesting Polymarket crypto up/down strategies against real book depth instead of mid-prices.
+  - **Team:** Elcara LLC-FZ (Dubai), per the site's terms.
+  - **Pricing:** free tier (5,000 credits/month, crypto markets, no card); Pro $17/mo, Scale $49/mo, Enterprise $549/mo ([pricing](https://resolvedmarkets.com/pricing)).
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 - **[Kalshi & Polymarket Markets Scraper](https://apify.com/gratified_ashram/prediction-markets-scraper)**: Pay-per-row export of Kalshi and Polymarket markets from their public APIs into JSON, CSV or a scheduled dataset, with order-book depth, price history for both exchanges (Kalshi settled markets and candlesticks back to 2021, Polymarket daily/hourly/minute series back to 2024) and Polymarket comment threads and top holders.
   Runs on Apify, so it also works as an MCP tool for AI agents and on a schedule for building your own archive. No exchange account or API key needed.
   - **Best for:** pulling a clean, filterable table of markets (by series, category, keyword, volume) with history attached, without writing API code.

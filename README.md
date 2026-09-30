@@ -145,6 +145,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⚡ Trading Terminals & Execution
 
+- **[oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent)**: Open-source prediction-market trading engine for Kalshi, Polymarket and Solana.
+  Checks fee-adjusted no-arbitrage relations across related event contracts using each venue's official fee schedule, runs cointegration and lead-lag strategies, backtests on recorded data, and trades live or on paper under pre-trade risk limits; a 13-tool MCP server exposes order books, the arbitrage checks and paper execution to AI agents.
+  - **Best for:** finding cross-contract and cross-venue arbitrage net of fees, from Python or from an AI agent.
+  - **Team:** Yicheng Yang (open-source maintainer).
+  - **Pricing:** free, open-source (Apache-2.0).
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 - **[Homerun](https://github.com/braedonsaunders/homerun)**: Open-source prediction-market trading platform for Polymarket and Kalshi.
   Write full Python strategies and data sources, backtest on L2 book replay, then paper or live trade from one self-hosted stack (25+ built-in strategies, copy trading, AI scoring, real-time dashboard).
   - **Best for:** builders who want a full Python strategy/backtest/live stack instead of a hosted terminal alone.

@@ -29,7 +29,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | Category | What it covers | Tools |
 |---|---|---|
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 5 |
-| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 4 |
+| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 5 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
@@ -136,6 +136,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** 1% fee on successful trades.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
+- **[Garnet](https://github.com/AndreySchurko/garnet-polymarket)**: Self-hosted, source-available Polymarket copy-trading engine written in Rust.
+  You choose the wallets; it detects their trades three independent ways (RTDS websocket, /activity polling, Polygon logs) and mirrors them under per-event exposure caps, a daily loss stop and a database-backed killswitch, with a shadow mode that pays the same fees as live.
+  - **Best for:** traders who already know which wallets they want to copy and would rather run the bot on their own server, with their own key, than hand either to a service.
+  - **Team:** Andrey Schurko (author).
+  - **Pricing:** free for individuals trading their own funds (BUSL-1.1, converts to Apache-2.0 in 2030); commercial license for companies and funds.
+  - **Phase:** live (v0.1.0).
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
 [↑ Back to top](#top)
 

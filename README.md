@@ -32,7 +32,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 4 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
-| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
+| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 12 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
 | [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
@@ -334,6 +334,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
   - **Phase:** Beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
+- **[TrueHold](https://www.truehold.xyz/track/polymarket)**: Portfolio tracker that reads Polymarket positions and P&L from any wallet address and Kalshi positions through read-only API credentials.
+  Prediction-market positions sit in one view with crypto wallets and exchange accounts, and an AI agent answers questions from that portfolio's data.
+  - **Best for:** seeing a Polymarket or Kalshi book next to the rest of a crypto portfolio.
+  - **Team:** Azat Tulegenov (co-founder).
+  - **Pricing:** not publicly listed.
+  - **Phase:** beta.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
 [↑ Back to top](#top)
 

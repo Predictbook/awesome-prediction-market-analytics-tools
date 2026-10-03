@@ -350,6 +350,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
   - **Phase:** Beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+- **[PolyTracer](https://polytracer.app/)**: Polymarket wallet analyzer that replays every wallet fill by fill from raw Polygon chain data.
+  Win rate, ROI and P&L are recomputed rather than read off the displayed figures; 2.6M wallets are indexed and ranked by a 0-100 Copy Score, with win rates broken down per category.
+  - **Best for:** checking whether a wallet is actually good before copying it.
+  - **Team:** not publicly listed.
+  - **Pricing:** free to browse wallets, leaderboards and stats; no account needed.
+  - **Phase:** live.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
 [↑ Back to top](#top)
 

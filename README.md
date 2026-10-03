@@ -335,6 +335,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** Beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[sg.tips](https://sg.tips/)**: Sports prediction-market tracker covering Polymarket, Kalshi and SX, with per-match market probabilities and the public positions and track records of accounts that pass a proprietary multi-dimensional screening.
+  Also publishes a weekly CC BY 4.0 [dataset](https://github.com/tipsstats/prediction-market-pro-stats) of aggregate stats.
+  - **Best for:** seeing which screened public accounts hold positions on an upcoming sports match.
+  - **Team:** not publicly listed.
+  - **Pricing:** free to browse; optional membership $9.99/mo or $79.99/yr for full positions and history. Dataset is free.
+  - **Phase:** live.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
+
 [↑ Back to top](#top)
 
 ---

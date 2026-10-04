@@ -18,9 +18,9 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 📊 At a Glance
 
-| Tools | Categories | Contributors | GitHub views (6 wks) |
+| Tools | Categories | Contributors | GitHub views (7 wks) |
 |---|---|---|---|
-| 50 (+7 this wk) | 7 | 14 (+1 this wk) | 588 |
+| 50 (+0 this wk) | 7 | 14 (+0 this wk) | 800 |
 
 *Updated every Monday.*
 

@@ -20,7 +20,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 | Tools | Categories | Contributors | GitHub views (7 wks) |
 |---|---|---|---|
-| 50 (+0 this wk) | 7 | 14 (+0 this wk) | 800 |
+| 55 (+5 this wk) | 7 | 19 (+5 this wk) | 800 |
 
 *Updated every Monday.*
 
@@ -30,11 +30,11 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 |---|---|---|
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 5 |
 | [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 5 |
-| [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |
+| [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 10 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
-| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
+| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 13 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
-| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
@@ -47,7 +47,6 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   Real-time monitoring across politics, crypto, sports, tech, and economics, plus whale-move tracking and cross-platform arbitrage spotting. This is written analysis, not just alerts: every piece cites its sources and links the underlying market, explaining not just what a price is but why it got there and what trade it implies.
   - **Best for:** anyone who wants the numbers explained in writing, not just pinged at.
   - **Follow:** [X](https://x.com/predictbook) · [Substack](https://predictbook.substack.com/) · [Telegram (analysis)](https://t.me/PredictbookAnalysis) · [Telegram (alerts)](https://t.me/Predictbook)
-  - **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
 

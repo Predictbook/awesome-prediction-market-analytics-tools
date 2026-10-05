@@ -34,7 +34,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 11 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
-| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
@@ -519,6 +519,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Team:** not publicly listed.
   - **Pricing:** paid, free 3-day trial.
   - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[Kresmion](https://kresmion.com/odds)**: Prediction market odds from Polymarket and Kalshi, with calibration, cross-venue divergence, and a comparison against options-implied probabilities for the same events.
+  It sits inside a wider market-intelligence platform (macro regime, SEC filings, 13F, insider and congress trades, on-chain whale movements) with a cited source behind every data point, a REST API and an MCP server. Information-only, no investment advice.
+  - **Best for:** checking what prediction markets price for an event against what options and other markets imply.
+  - **Team:** solo founder, Solal Guillemois.
+  - **Pricing:** free during beta, no card; paid plans after beta are published at kresmion.com/pricing.
+  - **Phase:** beta.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
 [↑ Back to top](#top)

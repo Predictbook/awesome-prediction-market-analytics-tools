@@ -18,9 +18,9 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 📊 At a Glance
 
-| Tools | Categories | Contributors | GitHub views (6 wks) |
+| Tools | Categories | Contributors | GitHub views (7 wks) |
 |---|---|---|---|
-| 50 (+7 this wk) | 7 | 14 (+1 this wk) | 588 |
+| 55 (+5 this wk) | 7 | 19 (+5 this wk) | 800 |
 
 *Updated every Monday.*
 
@@ -29,12 +29,12 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | Category | What it covers | Tools |
 |---|---|---|
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 5 |
-| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 4 |
-| [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 9 |
+| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 5 |
+| [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 10 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
-| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 12 |
+| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 14 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
-| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 10 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
@@ -47,7 +47,6 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   Real-time monitoring across politics, crypto, sports, tech, and economics, plus whale-move tracking and cross-platform arbitrage spotting. This is written analysis, not just alerts: every piece cites its sources and links the underlying market, explaining not just what a price is but why it got there and what trade it implies.
   - **Best for:** anyone who wants the numbers explained in writing, not just pinged at.
   - **Follow:** [X](https://x.com/predictbook) · [Substack](https://predictbook.substack.com/) · [Telegram (analysis)](https://t.me/PredictbookAnalysis) · [Telegram (alerts)](https://t.me/Predictbook)
-  - **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
 
@@ -137,6 +136,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Garnet](https://github.com/AndreySchurko/garnet-polymarket)**: Self-hosted, source-available Polymarket copy-trading engine written in Rust.
+  You choose the wallets; it detects their trades three independent ways (RTDS websocket, /activity polling, Polygon logs) and mirrors them under per-event exposure caps, a daily loss stop and a database-backed killswitch, with a shadow mode that pays the same fees as live.
+  - **Best for:** traders who already know which wallets they want to copy and would rather run the bot on their own server, with their own key, than hand either to a service.
+  - **Team:** Andrey Schurko (author).
+  - **Pricing:** free for individuals trading their own funds (BUSL-1.1, converts to Apache-2.0 in 2030); commercial license for companies and funds.
+  - **Phase:** live (v0.1.0).
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
 [↑ Back to top](#top)
 
 ---
@@ -144,6 +151,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 <a name="trading-terminals--execution"></a>
 
 ## ⚡ Trading Terminals & Execution
+
+- **[oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent)**: Open-source prediction-market trading engine for Kalshi, Polymarket and Solana.
+  Checks fee-adjusted no-arbitrage relations across related event contracts using each venue's official fee schedule, runs cointegration and lead-lag strategies, backtests on recorded data, and trades live or on paper under pre-trade risk limits; a 13-tool MCP server exposes order books, the arbitrage checks and paper execution to AI agents.
+  - **Best for:** finding cross-contract and cross-venue arbitrage net of fees, from Python or from an AI agent.
+  - **Team:** Yicheng Yang (open-source maintainer).
+  - **Pricing:** free, open-source (Apache-2.0).
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
 - **[Homerun](https://github.com/braedonsaunders/homerun)**: Open-source prediction-market trading platform for Polymarket and Kalshi.
   Write full Python strategies and data sources, backtest on L2 book replay, then paper or live trade from one self-hosted stack (25+ built-in strategies, copy trading, AI scoring, real-time dashboard).
@@ -334,7 +349,21 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
   - **Phase:** Beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+- **[PolyTracer](https://polytracer.app/)**: Polymarket wallet analyzer that replays every wallet fill by fill from raw Polygon chain data.
+  Win rate, ROI and P&L are recomputed rather than read off the displayed figures; 2.6M wallets are indexed and ranked by a 0-100 Copy Score, with win rates broken down per category.
+  - **Best for:** checking whether a wallet is actually good before copying it.
+  - **Team:** not publicly listed.
+  - **Pricing:** free to browse wallets, leaderboards and stats; no account needed.
+  - **Phase:** live.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[sg.tips](https://sg.tips/)**: Sports prediction-market tracker covering Polymarket, Kalshi and SX, with per-match market probabilities and the public positions and track records of accounts that pass a proprietary multi-dimensional screening.
+  Also publishes a weekly CC BY 4.0 [dataset](https://github.com/tipsstats/prediction-market-pro-stats) of aggregate stats.
+  - **Best for:** seeing which screened public accounts hold positions on an upcoming sports match.
+  - **Team:** not publicly listed.
+  - **Pricing:** free to browse; optional membership $9.99/mo or $79.99/yr for full positions and history. Dataset is free.
+  - **Phase:** live.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 - **[TrueHold](https://www.truehold.xyz/track/polymarket)**: Portfolio tracker that reads Polymarket positions and P&L from any wallet address and Kalshi positions through read-only API credentials.
   Prediction-market positions sit in one view with crypto wallets and exchange accounts, and an AI agent answers questions from that portfolio's data.
   - **Best for:** seeing a Polymarket or Kalshi book next to the rest of a crypto portfolio.
@@ -452,6 +481,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** Starter free, Pro $19/mo, Scale $49/mo (public [pricing page](https://polyorderbooks.com/pricing)); Enterprise custom.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
+- **[Resolved Markets](https://resolvedmarkets.com)**: Historical Polymarket order book API: full-depth L2 snapshots since March 2026, with trades and settlement results, over REST, WebSocket and a hosted MCP server.
+  Captured at about 20 Hz for crypto up/down markets and 2 Hz for sports; also covers weather, economics, social and equities markets, plus Hyperliquid perp books. An MIT-licensed Python backtester, [resolvedkit](https://github.com/resolvedmarkets/resolvedkit), fills strategies against this depth with Polymarket's fee curve.
+  - **Best for:** backtesting Polymarket crypto up/down strategies against real book depth instead of mid-prices.
+  - **Team:** Elcara LLC-FZ (Dubai), per the site's terms.
+  - **Pricing:** free tier (5,000 credits/month, crypto markets, no card); Pro $17/mo, Scale $49/mo, Enterprise $549/mo ([pricing](https://resolvedmarkets.com/pricing)).
+  - **Phase:** live.
+  - **Added:** Sep 2026 · **Reviewed:** Sep 2026
 
 - **[Kalshi & Polymarket Markets Scraper](https://apify.com/gratified_ashram/prediction-markets-scraper)**: Pay-per-row export of Kalshi and Polymarket markets from their public APIs into JSON, CSV or a scheduled dataset, with order-book depth, price history for both exchanges (Kalshi settled markets and candlesticks back to 2021, Polymarket daily/hourly/minute series back to 2024) and Polymarket comment threads and top holders.
   Runs on Apify, so it also works as an MCP tool for AI agents and on a schedule for building your own archive. No exchange account or API key needed.

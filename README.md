@@ -522,6 +522,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 - **[The Rumpus](https://therumpus.ai)**: Free daily edition that matches live Polymarket and Kalshi markets against several news sources and explains what the prices mean.
   Each morning it publishes dated, sourced stories, a market-wide analysis and a two-host podcast, Rumpus Daily.
+  Content is AI-generated: Claude writes the stories, analysis and podcast script, DeepSeek writes shorter front-page copy, story illustrations are AI-generated, and the podcast uses synthetic voices.
   - **Best for:** reading the day's news through the markets that price it.
   - **Team:** Matt O'Neill (Teemo Ltd), independent.
   - **Pricing:** free.

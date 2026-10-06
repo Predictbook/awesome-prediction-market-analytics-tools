@@ -32,7 +32,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 5 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 10 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
-| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 14 |
+| [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 15 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
 | [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
@@ -370,6 +370,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Team:** Azat Tulegenov (co-founder).
   - **Pricing:** not publicly listed.
   - **Phase:** beta.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
+
+- **[PMWallets](https://pmwallets.com/)**: Polymarket trader leaderboard computed from its own ledger of the Polygon chain, with wallets that trade as one scored as one trader and win rates shown with 95% confidence intervals.
+  Profit is also shown without each trader's single best market. Followed traders' fills are pushed over WebSocket or signed webhook for copy trading; REST API and MIT-licensed SDKs for Node.js and Python.
+  - **Best for:** checking whether a trader's record holds up at the lower bound of its win-rate interval and without its best market, then following that trader's fills.
+  - **Team:** solo developer.
+  - **Pricing:** free account to browse the whole board; plans $4.99 / $14.99 / $39.99 a month (7-day free trial on the $4.99 plan); fill feed $0.01 per wallet per hour.
+  - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
 [↑ Back to top](#top)

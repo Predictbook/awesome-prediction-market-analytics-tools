@@ -34,7 +34,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 2 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 14 |
 | [🐋 Alerts & Whale Monitoring](#alerts--whale-monitoring) | get pinged on big trades and unusual wallet activity. | 7 |
-| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 11 |
+| [🧠 Research & Market Discovery](#research--market-discovery) | find and dig into markets and data worth watching. | 12 |
 | [☠️ No Longer Maintained](#no-longer-maintained) | tools that used to be here, now dead or abandoned. | 1 |
 
 ---
@@ -535,6 +535,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free.
   - **Phase:** live.
   - **Added:** Sep 2026 · **Reviewed:** Sep 2026
+
+- **[outcometick](https://outcometick.com)**: Historical tick data for the crypto Up/Down markets on Polymarket and Predict.fun, sold by API: the Chainlink streams they settle on, order books, Polymarket trade prints and each market's strike and outcome, archived since June 2026.
+  A hosted sandbox replays Python or Node.js strategies against the same archive, and the strategy SDK and `ot` CLI are MIT-licensed on npm and PyPI.
+  - **Best for:** backtesting Polymarket and Predict.fun crypto Up/Down strategies and recomputing settlements from the Chainlink feed.
+  - **Team:** not publicly listed.
+  - **Pricing:** $10/mo per venue ($18 for both) for the newest 30 days; one-time date ranges from $0.40/day; backtest credits from $2; one free sample day per venue ([pricing](https://outcometick.com/#pricing)).
+  - **Phase:** live.
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
 [↑ Back to top](#top)
 

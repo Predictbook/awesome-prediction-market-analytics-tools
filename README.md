@@ -375,7 +375,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 - **[PMWallets](https://pmwallets.com/)**: Polymarket trader leaderboard computed from its own ledger of the Polygon chain, with wallets that trade as one scored as one trader and win rates shown with 95% confidence intervals.
   Profit is also shown without each trader's single best market. Followed traders' fills are pushed over WebSocket or signed webhook for copy trading; REST API and MIT-licensed SDKs for Node.js and Python.
   - **Best for:** checking whether a trader's record holds up at the lower bound of its win-rate interval and without its best market, then following that trader's fills.
-  - **Team:** solo developer.
+  - **Team:** not publicly listed.
   - **Pricing:** free account to browse the whole board; plans $4.99 / $14.99 / $39.99 a month (7-day free trial on the $4.99 plan); fill feed $0.01 per wallet per hour.
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026

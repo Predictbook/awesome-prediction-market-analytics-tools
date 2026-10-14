@@ -552,6 +552,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[Prediction Market Use Cases](https://prediction-market-use-cases.vercel.app/)**: Directory of public Kalshi and Polymarket bots, AI agents and data tools, each linked to its source with stars and update dates, plus build guides and comparisons.
+  - **Best for:** finding open-source code to learn from before building a bot.
+  - **Team:** not publicly listed
+  - **Pricing:** free
+  - **Phase:** live
+  - **Added:** Oct 2026 · **Reviewed:** Oct 2026
+
 [↑ Back to top](#top)
 
 ---
